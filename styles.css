@@ -1,0 +1,57 @@
+body {
+    background-color: #EAF6F6;
+    }
+    hr {
+        border-style: none;
+        border-top: dotted;
+        background-color: white;
+        border-width: 5px;
+        border-color: grey;
+        width: 10%;
+        margin-left: 100px;
+    }
+    h1{
+        color: #66BFBF;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    h3 {
+        color: #698269;
+        text-decoration: underline;
+        margin: 10px;
+    }
+    img {
+        height: 200px;
+        border-radius: 100%;
+    }
+    p{
+        font-family: "Times New Roman", Times, serif;
+        font-size: 14px;
+        margin: 0;
+    }
+    .layout{
+        
+        max-width: 21cm;
+        max-height: 29.7cm;
+        margin: auto;
+        border-style: solid;
+        border-color: black;
+    }
+    .content{
+        margin-left: 16mm;
+        margin-right: 16mm;
+    }
+    .top-hr{
+        margin-left: auto;
+        width: 100%;
+        border-top: solid;
+    }
+    .Education,.eth,.etd{
+        border: 1px solid;
+        border-collapse: collapse;
+    }
+    .etd{
+        text-align: center;
+    }
+    .Namesign{
+        margin-right: 5px;
+    }
